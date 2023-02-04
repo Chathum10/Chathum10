@@ -3,11 +3,9 @@
 <h3 align="center">A Passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chahtum10&label=Profile%20views&color=0e75b6&style=flat" alt="Chathum10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chathum10&label=Profile%20views&color=0e75b6&style=flat" alt="Chathum10" /> </p>
 
 - 🌱 I’m currently learning **Angular**
-
-- 👨‍💻 All of my projects are available at [https://chathum10.github.io/Chathum-Adhihetty/](https://chathum10.github.io/Chathum-Adhihetty/)
 
 - 💬 Ask me about **MERN, Java, Node JS**
 
