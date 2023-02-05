@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chathum10&label=Profile%20views&color=0e75b6&style=flat" alt="Chathum10" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Swift, Angular**
 
 - 💬 Ask me about **MERN, Java, Node JS**
 
